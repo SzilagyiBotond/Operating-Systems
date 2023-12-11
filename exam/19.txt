@@ -1,0 +1,3 @@
+Lock the resources in the coorect order.
+Never lock resources.
+Free the resources before locking new ones.

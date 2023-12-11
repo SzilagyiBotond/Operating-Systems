@@ -1,0 +1,2 @@
+Segmentation might suffer fragmentations.
+Segmented allocation gives a better protection of the memory, every segment can have different acces modes.

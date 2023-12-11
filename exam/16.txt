@@ -1,0 +1,1 @@
+It changes direclty from RUN to READY, when the process loses the CPU.

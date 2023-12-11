@@ -1,0 +1,2 @@
+It enters in zombie mode(processor keeps him), parent reciees sigchld
+Parent calls wait, child process is terminated.

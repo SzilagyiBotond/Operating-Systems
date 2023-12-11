@@ -1,0 +1,6 @@
+P
+PC
+C
+PC-parent only if we cannot fork -child only if we fork
+PC - same
+PC

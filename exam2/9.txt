@@ -1,0 +1,1 @@
+Waits till there is enough data, or till no writer is connected

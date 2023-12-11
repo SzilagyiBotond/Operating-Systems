@@ -1,0 +1,2 @@
+It reads n<size data and returns n
+If the situation is woth write, it writes n<size (n is the available bytes) and return n

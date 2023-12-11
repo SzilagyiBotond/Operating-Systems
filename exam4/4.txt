@@ -1,0 +1,1 @@
+find | grep -E "\.c" | sed -E "s/(.*)\/.*/\1/" | sort |uniq

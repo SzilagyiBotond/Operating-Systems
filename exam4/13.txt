@@ -1,0 +1,2 @@
+We dont have to replace data often.
+It is complicated, and doesnt use all slots.

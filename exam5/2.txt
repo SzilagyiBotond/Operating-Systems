@@ -1,0 +1,1 @@
+sed -E "s/([aeiouAEIOU])([13579])/\2\1/g"

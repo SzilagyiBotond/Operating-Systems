@@ -1,0 +1,2 @@
+Accessing data in Set associative is faster
+Doesn't use the whole cache - associative just puts in a free space in cache, with set-associateive we may replace more times

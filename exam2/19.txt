@@ -1,0 +1,3 @@
+Not locking anything.
+We free every resource before we request for more.
+We lock in a correct order.

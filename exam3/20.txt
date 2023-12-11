@@ -1,0 +1,2 @@
+Always lock the resources in the correct order. - like in the philosophers problem
+If you want to have new resources, free yours.
