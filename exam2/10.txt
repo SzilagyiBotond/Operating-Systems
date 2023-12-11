@@ -1,1 +1,0 @@
-It will block, because open doesnt let through if FIFO is not opened for the contary op

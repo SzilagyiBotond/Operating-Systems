@@ -1,1 +1,0 @@
-find exam2 | sed -E "s/.*\///g" | sort | uniq
