@@ -1,1 +1,0 @@
-It waits till the pipe is empty, or no reader is connected to it

@@ -1,2 +1,0 @@
-Accessing a set-associative cache is faster
-Is significantly harder thing to do.
