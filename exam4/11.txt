@@ -1,1 +1,0 @@
-They ocupy pid slots, if we have too much zombie processes, we may not be able to run new processes

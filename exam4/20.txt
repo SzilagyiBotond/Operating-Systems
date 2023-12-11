@@ -1,5 +1,0 @@
-It works like a mutex, has two values,0,1
-if values is 1,process may run
-if value 0, process may wait
-P method - wait value--
-if works like a mutex lock

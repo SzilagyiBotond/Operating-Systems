@@ -1,1 +1,0 @@
-Pick an order of the resources, and make sure to lock the resources in the correct order.

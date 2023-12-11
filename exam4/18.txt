@@ -1,4 +1,0 @@
-3 semaphores
-empty n,n
-full n,0
-exclus 1,1
