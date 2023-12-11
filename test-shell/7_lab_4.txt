@@ -1,0 +1,3 @@
+aei^,stillworks^
+abc^,waytoomanyvowelshere^
+^heretherearetoomanyvowels^butnothere^
