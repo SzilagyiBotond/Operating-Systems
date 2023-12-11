@@ -1,5 +1,0 @@
-Binary semaphore - value,queue size - value is 1 - it is essentially a mutex
-P - wait - queue size --
-V - signal - queue size ++
-
-if queue size ==0 no P can be made, till queue size > 0

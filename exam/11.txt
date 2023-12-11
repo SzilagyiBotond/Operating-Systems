@@ -1,2 +1,0 @@
-Uses less memory, doesnt copy all of the parent programs memory
-Faster

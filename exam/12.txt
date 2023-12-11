@@ -1,1 +1,0 @@
-Somewhere between 1-2, because the threads blocks different mutexes, they can have acces to the critical resource 	n at the same time, thus causing the possible incorrectness of the result

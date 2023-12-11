@@ -1,1 +1,0 @@
-When the program is in HOLD mode. This means essentially, that memory is being allocated for the program, and the program is currently being loaded to the memory.

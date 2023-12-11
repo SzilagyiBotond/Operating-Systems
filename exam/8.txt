@@ -1,2 +1,0 @@
-A B if execl fails
-A and the output of execl if execl not failed

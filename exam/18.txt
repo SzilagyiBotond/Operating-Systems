@@ -1,3 +1,0 @@
-THe data is not deleted permanently, it still can be accessible.
-A data is permanently deleted, when there are no hard links pointing to it.
-

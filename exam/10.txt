@@ -1,1 +1,0 @@
-Open ensures first, that the contary of the opening is made for the smae fifo somewhere else (eg. write-read,read-write)
